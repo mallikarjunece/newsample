@@ -1,4 +1,0 @@
-newsample
-=========
-
-for test
